@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "name": "ranwuer/ss720",
+    "description": "The VPN site project.",
+    "keywords": ["VPN", "laravel"],
     "license": "MIT",
     "type": "project",
     "require": {
