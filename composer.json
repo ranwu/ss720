@@ -1,7 +1,7 @@
 {
-    "name": "ranwuer/ss720",
+    "name": "ranwu/ss720",
     "description": "The VPN site project.",
-    "keywords": ["VPN", "laravel"],
+    "keywords": ["VPN site", "laravel"],
     "license": "MIT",
     "type": "project",
     "require": {
